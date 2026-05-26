@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JohnDiems/JohnDiems/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/JohnDiems/JohnDiems/blob/output/github-snake.svg" />
-  <img alt="snake animation" src="https://github.com/JohnDiems/JohnDiems/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnDiems/JohnDiems/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnDiems/JohnDiems/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/JohnDiems/JohnDiems/output/github-snake.svg" />
 </picture>
