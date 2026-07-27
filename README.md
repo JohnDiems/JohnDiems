@@ -1,5 +1,4 @@
-# 💫 About Me:
-# Hi there, I'm John Diems 👋<br><br>I'm a Full-Stack Web Developer currently building solutions for the City Government of Davao (CITC). Since graduating with my BS in Information Technology, I've successfully developed and deployed multiple active public systems, focusing on clean architecture and security.<br><br>### 💻 Tech Stack<br>* **Frontend:** Vue.js, Nuxt.js, Tailwind CSS<br>* **Backend:** Laravel, PostgreSQL, MySQL<br>* **Currently Exploring:** React Native & Application Penetration Testing<br><br>### 🚀 Recent Milestones<br>* Deployed 4 active public-facing systems within a government environment.<br>* Led structural organization and development for the **DCWEB REVAMP**.<br>* Architected and executed features for large-scale HMIS and Sports Management systems.<br><br>### 🎮 Off-Screen<br>When I'm not writing code, you can find me min-maxing character builds in MMORPGs like Ragnarok Origin Classic and MIR4, or watching anime.
+
 
 
 ## 🌐 Socials:
